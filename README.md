@@ -98,6 +98,8 @@ pkg update && pkg upgrade && pkg install git python && git clone https://github.
 2. Jalanin Tools:
 
 cd CrashPulse
+pip install -r requierements.txt
+./run.bin
 
 
 3. Pilih Mode:
